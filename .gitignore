@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+# prepared token files (large)
+data/*/
+# training outputs
+out/
+wandb/
+*.png
+*.pdf

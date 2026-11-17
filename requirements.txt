@@ -1,0 +1,11 @@
+torch>=2.1
+numpy
+tiktoken
+pyarrow
+huggingface_hub
+tqdm
+# optional
+matplotlib    # plot.py
+pytest        # tests/
+# wandb       # --wandb_log=True
+# transformers  # data/prepare.py --tokenizer hf:<repo>
